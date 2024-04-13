@@ -1,4 +1,4 @@
-# Simple Flexbox task
+# Flexbox task
 The task shows how to arrange elements on a page using Flexbox.
 
 * [General info](#general-info)
