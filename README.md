@@ -17,7 +17,7 @@ Project is created with:
 * CSS3
 
 ## Setup
-You can see this project on-line using link: https://szymonsauer.github.io/positions/
+You can see this project on-line using link: https://szymonsauer.github.io/flexbox-task/
 To run this project locally download the code and run in the Visual Studio Code program. 
 
 ## Status
